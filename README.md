@@ -4,7 +4,7 @@
 Imagens e vídeos de uma chuva de pétalas sobre uma cidade.
 
 ## 🤖 Tecnologias Utilizadas
-Night Café
+IA generativa Night Café para geração destes tipos de conteúdo.
 
 ## 🧐 Processo de Criação
 Digitei na caixa de texto "a petal rain over a city".
