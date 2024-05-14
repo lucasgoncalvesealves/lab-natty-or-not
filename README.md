@@ -1,4 +1,3 @@
-```markdown
 # A Glória Dos Apaixonados É O Pesadelo Dos Alérgicos
 
 ## 📒 Descrição
@@ -22,4 +21,3 @@ https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/2f9c622
 ## 💭 Reflexão (Opcional)
 Por um lado, fiquei bem impressionado e satisfeito com a beleza e o detalhamento do conteúdo criado, bem de acordo com o que pedi.
 Por outro lado, acho que ficou "perfeito" demais para ser considerado realista. Parece algo tirado de um longa-metragem de animação.
-```
