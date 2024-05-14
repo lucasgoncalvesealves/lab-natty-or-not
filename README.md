@@ -19,6 +19,6 @@ Estes arquivos foram convertidos para, respectivamente, PNG e GIF para poderem s
 ![petalrain2](https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/7f571a78-2981-4ee7-ad88-3097480dc79b)
 ![petalrain2](https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/3db84c4e-5950-49a5-8c59-300641d6c81e)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Por um lado, fiquei bem impressionado e satisfeito com a beleza e o detalhamento do conteúdo criado, bem de acordo com o que pedi.
 Por outro lado, acho que ficou "perfeito" demais para ser considerado realista. Parece algo tirado de um longa-metragem de animação.
