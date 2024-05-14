@@ -1,7 +1,7 @@
 # A Glória Dos Apaixonados É O Pesadelo Dos Alérgicos
 
 ## 📒 Descrição
-Imagens e vídeos de uma chuva de pétalas sobre uma cidade
+Imagens e vídeos de uma chuva de pétalas sobre uma cidade.
 
 ## 🤖 Tecnologias Utilizadas
 Night Café
@@ -10,13 +10,14 @@ Night Café
 Digitei na caixa de texto "a petal rain over a city".
 Após a imagem ser gerada, cliquei no botão de gerar animação a partir da imagem.
 Depois, repeti a operação acima para gerar outra imagem e outro vídeo.
+As imagens foram geradas em arquivos WEBP, e os vídeos, em MP4.
+Estes arquivos foram convertidos para, respectivamente, PNG e GIF para poderem ser visualizados aqui.
 
 ## 🚀 Resultados
 ![petalrain1](https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/a14800e4-e721-417c-b820-9e2088ef4e17)
 ![petalrain2](https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/7f571a78-2981-4ee7-ad88-3097480dc79b)
-
-https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/bb6d6b34-2b5a-40ee-9065-99655fea9d3c
-https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/2f9c6223-eda5-441f-8936-31955feb57b5
+![petalrain1](https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/2aeccba2-d594-4585-a57c-f16849fcac37)
+![petalrain2](https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/3db84c4e-5950-49a5-8c59-300641d6c81e)
 
 ## 💭 Reflexão (Opcional)
 Por um lado, fiquei bem impressionado e satisfeito com a beleza e o detalhamento do conteúdo criado, bem de acordo com o que pedi.
