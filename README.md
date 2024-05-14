@@ -1,7 +1,7 @@
 # A Glória Dos Apaixonados É O Pesadelo Dos Alérgicos
 
 ## 📒 Descrição
-Imagens e vídeos de chuva de pétalas sobre uma cidade
+Imagens e vídeos de uma chuva de pétalas sobre uma cidade
 
 ## 🤖 Tecnologias Utilizadas
 Night Café
