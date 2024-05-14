@@ -15,8 +15,8 @@ Estes arquivos foram convertidos para, respectivamente, PNG e GIF para poderem s
 
 ## 🚀 Resultados
 ![petalrain1](https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/a14800e4-e721-417c-b820-9e2088ef4e17)
-![petalrain2](https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/7f571a78-2981-4ee7-ad88-3097480dc79b)
 ![petalrain1](https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/2aeccba2-d594-4585-a57c-f16849fcac37)
+![petalrain2](https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/7f571a78-2981-4ee7-ad88-3097480dc79b)
 ![petalrain2](https://github.com/lucasgoncalvesealves/lab-natty-or-not/assets/48800908/3db84c4e-5950-49a5-8c59-300641d6c81e)
 
 ## 💭 Reflexão (Opcional)
